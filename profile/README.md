@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="banner-black.png" alt="Epora Banner" width="100%"/>
+  <img src="epora.png" alt="Epora Banner" width="50%"/>
 </div>
 
 ---
